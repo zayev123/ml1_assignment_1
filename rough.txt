@@ -1,0 +1,4 @@
+source assgn_1_env/bin/activate
+
+git remote add origin https://github.com/zayev123/ml1_assignment_1.git
+
